@@ -1,5 +1,5 @@
 ---
-title: The title
+title: Catalog of Heteroptera (part)
 lead: Taxa from your imagination to the web
 project: Your project
 ---
