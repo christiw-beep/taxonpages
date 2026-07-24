@@ -1,6 +1,6 @@
 ---
 title: Catalog of Heteroptera (part)
-lead: Taxa from your imagination to the web
+lead: 
 project: Your project
 ---
 
@@ -10,16 +10,17 @@ _{{frontmatter.lead}}_
 
 ## Overview
 
-Welcome to _{{ frontmatter.project }}_, a website of taxon pages generated from the {{ frontmatter.project }} Project, a comprehensive collaborative effort managed in [TaxonWorks](https://taxonworks.org).
+Welcome to the Catalog of Heteroptera, a website of taxon pages generated from the Heteropteran Catalog Project, a comprehensive collaborative effort managed in [TaxonWorks](https://taxonworks.org). This projects builds on the efforst by Maldonado, Carvalho, etc.
 
-## Get started!
+## Get started by typing Heteroptera below!
 
 <autocomplete-otu class="w-80"/>
 
 ## Announcements
 
-- 5/1/2022 - We've grown!
-- 1/1/2022 - Our website is live!
+- 10/1/2025 - Files for Miridae, Reduviidae, and Leptopodomorpha incoporated
+- 04/1/2026 - Dipsocormorpha, Tingidae, and Nabidae added
+- 7/23/2026 - First Taxonpages!
 
 ## Find out more
 
