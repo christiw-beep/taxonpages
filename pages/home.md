@@ -4,7 +4,7 @@ lead:
 project: Your project
 ---
 
-# {{frontmatter.title}}
+# {{Heteroptera Catalog}}
 
 _{{frontmatter.lead}}_
 
@@ -19,7 +19,7 @@ Welcome to the Catalog of Heteroptera, a website of taxon pages generated from t
 ## Announcements
 
 - 10/1/2025 - Files for Miridae, Reduviidae, and Leptopodomorpha incoporated
-- 04/1/2026 - Dipsocormorpha, Tingidae, and Nabidae added
+- 04/1/2026 - Dipsocoromorpha, Tingidae, and Nabidae added
 - 7/23/2026 - First Taxonpages!
 
 ## Find out more
