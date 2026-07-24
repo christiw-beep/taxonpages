@@ -1,10 +1,10 @@
 ---
 title: Catalog of Heteroptera (part)
 lead: 
-project: Catalog of Heteroptera
+project: Your project
 ---
 
-# {{Heteroptera Catalog}}
+# {{frontmatter.lead}}
 
 _{{frontmatter.lead}}_
 
